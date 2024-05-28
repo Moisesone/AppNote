@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppNote</string>
+    <string name="add_note">Add Note</string>
+    <string name="welcome">¡Bienvenido a AppNote!</string>
+    <string name="hint1">Presiona el símbolo de más para agregar una nota</string>
+</resources>
